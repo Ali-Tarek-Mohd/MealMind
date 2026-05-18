@@ -2,6 +2,10 @@
 
 **MealMind** is a smart kitchen assistant web app that helps users manage pantry items, decide what to cook, build grocery lists, save meals, and track cooking progress.
 
+## 🌐 Live Demo
+
+[Open MealMind](https://meal-mind-gray.vercel.app)
+
 The goal of MealMind is simple: help users waste less food, avoid buying duplicate groceries, and make daily meal decisions easier using pantry-aware recommendations.
 
 ---
