@@ -208,23 +208,35 @@ Row Level Security should be enabled so authenticated users can manage only thei
 
 ## 🖼️ Screenshots
 
-screenshots:
+### Login
+![Login](./screenshots/login.png)
 
-```txt
-- Login / Register page
-- Dashboard
-- Pantry
-- Decide Meal
-- Grocery List
-- Meal History
-- Use Soon
-- Analytics
-- Settings
-```
+### Register
+![Register](./screenshots/register.png)
 
-```md
-![Dashboard Screenshot](./screenshots/dashboard.png)
-```
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Pantry
+![Pantry](./screenshots/pantry.png)
+
+### Decide Meal
+![Decide Meal](./screenshots/decide-meal.png)
+
+### Grocery List
+![Grocery List](./screenshots/grocery-list.png)
+
+### Meal History
+![Meal History](./screenshots/meal-history.png)
+
+### Use Soon
+![Use Soon](./screenshots/use-soon.png)
+
+### Analytics
+![Analytics](./screenshots/analytics.png)
+
+### Settings
+![Settings](./screenshots/settings.png)
 
 ---
 
